@@ -1,1 +1,8 @@
-# What-eon-really-is
+# If u dont know what eon. It is just a fortnite emulator if u wanna play it which i dont. here is the link discord.gg/eonfn :)
+
+RIO/PLAUGE
+
+https://private-user-images.githubusercontent.com/190223364/391688477-eef8f160-3984-49ff-8e1d-f6f1fbd3f8b7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5MDAyNDQsIm5iZiI6MTc0ODg5OTk0NCwicGF0aCI6Ii8xOTAyMjMzNjQvMzkxNjg4NDc3LWVlZjhmMTYwLTM5ODQtNDlmZi04ZTFkLWY2ZjFmYmQzZjhiNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwMlQyMTMyMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NTM1Mjk3MzBlNDAzNjc1ZjNlNDAyMzk4MzJiNDk0NTM5MmEwYjQ4NGI1OTViMzkwZTg4NmI5MGFiZWYxZjhjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xf-nbExi1cJIx46n8F6Ixl4iw5v8jlx2KeRGzvp-fcw
+if u want to check out other docs they are below.
+https://github.com/Drixtec/Exposing-Ri
+https://github.com/TheRevisitor/The-fifth-EON-document-
