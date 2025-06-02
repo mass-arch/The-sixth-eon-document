@@ -3,7 +3,7 @@
 RIO/PLAUGE
 
 
-
+expose.png
 if u want to check out other docs they are below.
 https://github.com/Drixtec/Exposing-Ri
 https://github.com/TheRevisitor/The-fifth-EON-document-
