@@ -3,7 +3,6 @@
 RIO/PLAUGE
 
 
-![image](https://github.com/user-attachments/assets/e12633ec-7ace-43be-a36d-67a378811cef)
 
 
 
